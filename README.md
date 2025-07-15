@@ -45,6 +45,6 @@
 ### 🔄 Setup Steps
 
 ```bash
-git clone https://github.com/badhonvitality/vitality-bot.git
-cd vitality-bot
+git clone https://github.com/badhonvitality/Vitality-Bot.git
+cd Vitality-Bot
 npm install
